@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Yusei+Magic&display=swap");
+
+.App {
+  font-family: "Yusei Magic", sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  text-shadow: 0 0 5px magenta, 0 0 10px magenta, 0 0 20px magenta,
+    0 0 50px magenta;
+}
+
+h2 {
+  color: white;
+  text-shadow: 0 0 5px crimson, 0 0 10px crimson, 0 0 20px crimson,
+    0 0 50px crimson;
+}
